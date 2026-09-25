@@ -69,6 +69,6 @@ The evaluation will help determine whether the model is producing reliable resul
 
 ### 2. The Software to display the Model
 
- After testing with an unsupervised dataset for accuracy we need to build a software(Website) to display the results of the model testing and 
+ After testing with an unsupervised dataset for accuracy we need to build a software(Website/App) to display the results of the model testing and 
  a source to view the severity levels of the potholes.
 
