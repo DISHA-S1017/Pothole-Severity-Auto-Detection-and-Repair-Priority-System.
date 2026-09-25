@@ -42,7 +42,7 @@ The exact implementation and performance of the system will be determined after 
 
 ## Current Status
 
-At present, the research and planning stages have been completed.
+At present, the training of the model is completed with a supervised dataset
 
 We have:
 
@@ -53,55 +53,22 @@ We have:
 * Studied the relevant technologies and approaches
 * Planned the overall workflow
 * Defined the expected output
+* Implementation started and training is completed using dataset
 
-The project is now ready to move from the research phase to the implementation phase.
+The project is now ready to move from the training phase to the testing  phase.
 
 ## Next Steps
 
-The next phase of the project will focus on working with the datasets and developing the machine learning model.
+The next phase of the project will focus on testing and making a front end structure.
 
-### 1. Dataset Extraction
-
-The first step will be to identify and extract the required datasets based on the project requirements.
-
-The collected datasets will be examined to understand:
-
-* The available features
-* The target variable
-* The size and structure of the dataset
-* Missing or inconsistent values
-* Relevant and irrelevant attributes
-* The overall quality of the data
-
-### 2. Data Preprocessing
-
-After extracting the datasets, the data will be prepared for model development.
-
-This stage may include:
-
-* Cleaning the dataset
-* Handling missing values
-* Removing unnecessary data
-* Converting data into a suitable format
-* Feature selection
-* Feature transformation
-* Splitting the dataset into training and testing data
-
-### 3. Model Building
-
-Once the dataset has been prepared, the appropriate machine learning model will be selected and implemented.
-
-The model will be designed according to the requirements of the project and the characteristics of the dataset.
-
-### 4. Model Training
-
-The prepared training dataset will then be used to train the model.
-
-During this stage, the model will learn the patterns and relationships present in the data. Different parameters and approaches may be tested to improve the model's performance.
-
-### 5. Model Evaluation
+### 1. Model Evaluation
 
 After training, the model will be evaluated using suitable evaluation techniques and metrics.
 
 The evaluation will help determine whether the model is producing reliable results and whether further improvements or modifications are required.
+
+### 2. The Software to display the Model
+
+ After testing with an unsupervised dataset for accuracy we need to build a software(Website) to display the results of the model testing and 
+ a source to view the severity levels of the potholes.
 
